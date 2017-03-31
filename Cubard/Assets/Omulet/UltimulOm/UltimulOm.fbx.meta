@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 697c67bcd85a63f48aec263209d1be9c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature|bazin.L
+    100004: Armature|bazin.R
+    100006: Armature|brat.L
+    100008: Armature|brat.R
+    100010: Armature|cap
+    100012: Armature|corp
+    100014: Armature|index
+    100016: Armature|picior.L
+    100018: Armature|picior.R
+    100020: Armature|umar.L
+    100022: Armature|umar.R
+    100024: Basca
+    100026: Cube
+    100028: ParBaiat
+    100030: ParFata
+    100032: //RootNode
+    400000: Armature
+    400002: Armature|bazin.L
+    400004: Armature|bazin.R
+    400006: Armature|brat.L
+    400008: Armature|brat.R
+    400010: Armature|cap
+    400012: Armature|corp
+    400014: Armature|index
+    400016: Armature|picior.L
+    400018: Armature|picior.R
+    400020: Armature|umar.L
+    400022: Armature|umar.R
+    400024: Basca
+    400026: Cube
+    400028: ParBaiat
+    400030: ParFata
+    400032: //RootNode
+    2300000: Basca
+    2300002: ParBaiat
+    2300004: ParFata
+    3300000: Basca
+    3300002: ParBaiat
+    3300004: ParFata
+    4300000: Basca
+    4300002: ParBaiat
+    4300004: ParFata
+    4300006: Cube
+    7400000: Armature|idle
+    7400002: Armature|jump
+    7400004: Armature|run2
+    7400006: Armature|walk
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|idle
+      takeName: Armature|idle
+      firstFrame: 0
+      lastFrame: 809
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|index
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.L/Armature|picior.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.R/Armature|picior.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|cap
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.L/Armature|brat.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.R/Armature|brat.R
+        weight: 1
+      - path: Armature/Basca
+        weight: 1
+      - path: Armature/ParBaiat
+        weight: 1
+      - path: Armature/ParFata
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|jump
+      takeName: Armature|jump
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|index
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.L/Armature|picior.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.R/Armature|picior.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|cap
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.L/Armature|brat.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.R/Armature|brat.R
+        weight: 1
+      - path: Armature/Basca
+        weight: 1
+      - path: Armature/ParBaiat
+        weight: 1
+      - path: Armature/ParFata
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|run2
+      takeName: Armature|run2
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|index
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.L/Armature|picior.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.R/Armature|picior.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|cap
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.L/Armature|brat.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.R/Armature|brat.R
+        weight: 1
+      - path: Armature/Basca
+        weight: 1
+      - path: Armature/ParBaiat
+        weight: 1
+      - path: Armature/ParFata
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|walk
+      takeName: Armature|walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|index
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.L/Armature|picior.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|bazin.R/Armature|picior.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|cap
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.L/Armature|brat.L
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.R
+        weight: 1
+      - path: Armature/Armature|index/Armature|corp/Armature|umar.R/Armature|brat.R
+        weight: 1
+      - path: Armature/Basca
+        weight: 1
+      - path: Armature/ParBaiat
+        weight: 1
+      - path: Armature/ParFata
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

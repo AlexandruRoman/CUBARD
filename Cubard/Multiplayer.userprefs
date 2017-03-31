@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Matematica\Scripturi\AproapeToataTreaba.cs">
+    <Files>
+      <File FileName="Assets\Matematica\Scripturi\AproapeToataTreaba.cs" Line="64" Column="14" />
+      <File FileName="Assets\Scripturi\CameraBack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cumpunator\Scripturi\Text.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cumpunator\Scripturi\mono_gmail.cs" Line="1" Column="1" />
+      <File FileName="Assets\Celelalte\Scripturi\LoginProf.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cumpunator\Scripturi\GenerareRaspunsuri.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cumpunator\Scripturi\GenerareObiecte.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripturi\Generator_Harta_Tester.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripturi\CameraSus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripturi\Tatat.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
